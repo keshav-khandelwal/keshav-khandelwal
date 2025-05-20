@@ -1,11 +1,14 @@
 
-<!-- Background Image -->
+<h1 align="center">Hi 👋, I'm Keshav Khandelwal</h1>
+<h3 align="center">Computer Science & Engineering student | Problem Solver | Tech Enthusiast from India 🇮🇳</h3>
+
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/programmer-working-flat-style_23-2148189600.jpg" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&width=435&lines=Machine+Learning+Explorer;DSA+Practitioner;C%2B%2B+%7C+Python+%7C+R+%7C+SQL;React+%7C+Tableau+%7C+Excel+Lover" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Keshav Khandelwal</h1>
-<h3 align="center">Aspiring Data Analyst | CSE Undergrad | ML & Cybersecurity Enthusiast | India 🇮🇳</h3>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&width=435&lines=Data+Analytics+%7C+Machine+Learning+%7C+Cyber+Security+%7C+Problem+Solver" alt="Typing SVG" />
