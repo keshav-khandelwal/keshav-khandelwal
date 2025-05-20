@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="160" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🎓 I'm pursuing B.Tech in Computer Science & Engineering at Lovely Professional University (2022–2026)
 - 💻 I love working on Data Science, Machine Learning, Cybersecurity, and Web Development
@@ -24,7 +24,7 @@
 
 ### 🔧 Tech Stack & Tools
 
-<img align="right" width="280" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" width="180" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 #### 💻 Languages
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
