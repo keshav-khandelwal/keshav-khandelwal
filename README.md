@@ -14,46 +14,52 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-🎓 B.Tech CSE student at Lovely Professional University (2022–2026)  
-💻 Passionate about Software Development, AI/ML, Data Analysis, and Cybersecurity  
-📊 Enthusiastic about building intelligent systems and data-driven solutions  
-📈 Committed to solving real-world problems using code and logic  
+- 🎓 I'm pursuing B.Tech in Computer Science & Engineering at Lovely Professional University (2022–2026)
+- 💻 I love working on Data Science, Machine Learning, Cybersecurity, and Web Development
+- 🧠 Continuously improving my problem-solving abilities through DSA
+- 🚀 I'm on a mission to build impactful and intelligent systems
 
 ---
 
 ### 🔧 Tech Stack & Tools
 
-<img align="right" width="200" src="https://i.pinimg.com/originals/3e/fc/27/3efc2790f412f5f0e96f647ac9a0eeb5.gif">
+<img align="right" width="280" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-**Languages:**  
-`C++` `Python` `Java` `R` `HTML` `CSS` `JavaScript`  
+#### 💻 Languages
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![R](https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png)
 
-**Frameworks & Libraries:**  
-`React` `NeuralNet (R)` `ggplot2` `caret` `e1071` `rpart`
+#### 🌐 Web Technologies
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![React](https://img.icons8.com/officel/48/000000/react.png)
 
-**Tools & Platforms:**  
-`MySQL` `Tableau` `Excel` `OpenStreetMap` `Mapbox` `Git`
-
-**Soft Skills:**  
-Teamwork • Problem Solving • Adaptability • Project Management
+#### 🛠 Tools & Platforms
+![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
+![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
+![Excel](https://img.icons8.com/office/40/000000/ms-excel.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ---
 
 ### 🧠 Projects
 
-📌 **Wine Classification Using ML**  
-<img src="https://cdn-icons-png.flaticon.com/512/3944/3944339.png" width="20"/> [GitHub](https://github.com/keshav-khandelwal/Wine-Data-Analysis-ML)  
-Applied multiple ML models in R to classify wine types using features like acidity, alcohol, and phenols. Visualized with `ggplot2`, `corrplot`, etc.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
-📌 **COVID-19 Insights India Dashboard**  
-<img src="https://cdn-icons-png.flaticon.com/512/2965/2965567.png" width="20"/> [GitHub](https://github.com/keshav-khandelwal/covid19-vaccination-dashboard)  
-State-wise dashboard built in Tableau with case and vaccination trends using interactive maps.
+📌 **[Wine Classification Using ML](https://github.com/keshav-khandelwal/Wine-Data-Analysis-ML)**  
+Utilized multiple R-based ML models for wine type classification with `ggplot2`, `corrplot`, and `neuralnet`.
 
-📌 **Blood Donation Website**  
-<img src="https://cdn-icons-png.flaticon.com/512/2769/2769339.png" width="20"/> [GitHub](https://github.com/keshav-khandelwal/Helping-Hands)  
-HTML/CSS/JS based web app for booking blood donation appointments and learning about eligibility.
+📌 **[COVID-19 Insights India Dashboard](https://github.com/keshav-khandelwal/covid19-vaccination-dashboard)**  
+Interactive Tableau dashboard with trends, doses, and geospatial visuals using Mapbox/OpenStreetMap.
+
+📌 **[Blood Donation Website](https://github.com/keshav-khandelwal/Helping-Hands)**  
+User-friendly static site built with HTML, CSS & JS for awareness and donor appointment booking.
 
 ---
 
@@ -62,6 +68,14 @@ HTML/CSS/JS based web app for booking blood donation appointments and learning a
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=keshav-khandelwal&theme=onedark&row=2&column=3" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gslXtBzywYh8QLe/giphy.gif" width="250"/>
+</p>
+
+🏆 269-day coding streak on CodeChef  
+🧠 Solved 150+ LeetCode problems (maintained a 70+ day streak)  
+🎤 Represented the School of CSE in a debate competition  
 
 ---
 
