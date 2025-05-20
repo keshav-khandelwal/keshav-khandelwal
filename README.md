@@ -1,13 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Keshav Khandelwal</h1>
-<h3 align="center">Computer Science & Engineering student | Problem Solver | Tech Enthusiast from India 🇮🇳</h3>
-
+<!-- Background Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&width=435&lines=Cyber+Security+Learner;Machine+Learning+Explorer;DSA+Practitioner;C%2B%2B+%7C+Python+%7C+R+%7C+SQL;React+%7C+Tableau+%7C+Excel+Lover" alt="Typing SVG" />
+  <img src="https://img.freepik.com/free-vector/programmer-working-flat-style_23-2148189600.jpg" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Keshav Khandelwal</h1>
+<h3 align="center">Aspiring Data Analyst | CSE Undergrad | ML & Cybersecurity Enthusiast | India 🇮🇳</h3>
+
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&width=435&lines=Data+Analytics+%7C+Machine+Learning+%7C+Cyber+Security+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,94 +17,101 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🎓 I'm pursuing B.Tech in Computer Science & Engineering at Lovely Professional University (2022–2026)
-- 💻 I love working on Data Science, Machine Learning, Cybersecurity, and Web Development
-- 🧠 Continuously improving my problem-solving abilities through DSA
-- 🚀 I'm on a mission to build impactful and intelligent systems
+- 🎓 B.Tech in CSE @ Lovely Professional University (2022–2026)
+- 📈 Passionate about Data Analytics, ML, and Cybersecurity
+- 🧠 Trained in DSA (GeeksForGeeks) and Python (University of Michigan)
+- 📊 Skilled in Excel, Tableau, SQL, and data visualization tools
+- 🚀 Aim to derive insights from data to drive business decisions
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
-<img align="right" width="280" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" width="260" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-#### 💻 Languages
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![R](https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png)
-
-#### 🌐 Web Technologies
-![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![React](https://img.icons8.com/officel/48/000000/react.png)
-
-#### 🛠 Tools & Platforms
-![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
-![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
-![Excel](https://img.icons8.com/office/40/000000/ms-excel.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
+#### 📌 Languages & Tools:
+![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
+![Python](https://img.icons8.com/color/48/python.png)
+![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png)
+![R](https://img.icons8.com/external-becris-flat-becris/48/external-r-data-science-becris-flat-becris.png)
+![MySQL](https://img.icons8.com/fluency/48/mysql-logo.png)
+![Tableau](https://img.icons8.com/color/48/tableau-software.png)
+![Excel](https://img.icons8.com/office/40/ms-excel.png)
+![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/css3.png)
+![React](https://img.icons8.com/officel/48/react.png)
 
 ---
 
-### 🧠 Projects
+### 📂 Featured Projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
-📌 **[Wine Classification Using ML](https://github.com/keshav-khandelwal/Wine-Data-Analysis-ML)**  
-Utilized multiple R-based ML models for wine type classification with `ggplot2`, `corrplot`, and `neuralnet`.
+🔍 **Wine Classification Using ML**  
+- ML models in R (Naive Bayes, Neural Net, Decision Tree)  
+- Evaluation: Accuracy, Precision, Recall  
+🔗 [GitHub Repo](https://github.com/keshav-khandelwal/Wine-Data-Analysis-ML)
 
-📌 **[COVID-19 Insights India Dashboard](https://github.com/keshav-khandelwal/covid19-vaccination-dashboard)**  
-Interactive Tableau dashboard with trends, doses, and geospatial visuals using Mapbox/OpenStreetMap.
+📊 **COVID-19 India Dashboard**  
+- Tableau dashboard on vaccination and testing trends  
+- Used OpenStreetMap & map-based insights  
+🔗 [GitHub Repo](https://github.com/keshav-khandelwal/covid19-vaccination-dashboard)
 
-📌 **[Blood Donation Website](https://github.com/keshav-khandelwal/Helping-Hands)**  
-User-friendly static site built with HTML, CSS & JS for awareness and donor appointment booking.
-
----
-
-### 🏅 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keshav-khandelwal&theme=onedark&row=2&column=3" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26gslXtBzywYh8QLe/giphy.gif" width="250"/>
-</p>
-
-🏆 269-day coding streak on CodeChef  
-🧠 Solved 150+ LeetCode problems (maintained a 70+ day streak)  
-🎤 Represented the School of CSE in a debate competition  
+🩸 **Blood Donation Website**  
+- HTML/CSS-based platform for awareness and donor registration  
+🔗 [GitHub Repo](https://github.com/keshav-khandelwal/Helping-Hands)
 
 ---
 
-### 📬 Connect with Me
+### 🏅 Key Achievements
+
+<img align="right" width="280" src="https://cdn.dribbble.com/users/20368/screenshots/14546657/media/8a53d8fcce2f8d96b7a02f9d6c3886e7.gif"/>
+
+- 💻 **269-day streak** on CodeChef + multiple badges  
+- 🧩 Solved **150+ LeetCode problems** with 70+ day streak  
+- 🥇 Represented university in **debate competition**  
+- 📜 Earned certificates in Python, SQL, Excel, ChatGPT, Generative AI  
+- 📘 Completed GFG DSA Course + applied concepts in real projects
+
+---
+
+### 📊 My Coding Stats
+
+#### 🧠 LeetCode Performance
+![LeetCode Stats](https://leetcard.jacoblin.cool/keshavkhandelwal?theme=dark&font=Baloo+Bhai&ext=contest)
+
+#### 🔥 CodeChef Activity
+<p align="left">
+  <a href="https://www.codechef.com/users/keshavkk322">
+    <img src="https://cp-logo.vercel.app/codechef/keshavkk322?logo=true" alt="codechef-profile"/>
+  </a>
+</p>
+
+---
+
+### 📈 Custom Data Graphs
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=keshav-khandelwal&limit=10&theme=tokyo-night&combine=true" />
+</p>
+
+---
+
+### 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/keshav-khandelwal-kk/"><img src="https://img.icons8.com/color/48/linkedin.png" height="30"/></a>
-  <a href="mailto:keshavkhandelwal.jwr@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" height="30"/></a>
-  <a href="https://github.com/keshav-khandelwal"><img src="https://img.icons8.com/ios-filled/50/github.png" height="30"/></a>
-  <a href="https://keshav-khandelwal.github.io/KESHAV_PORTFOLIO/"><img src="https://img.icons8.com/color/48/domain.png" height="30"/></a>
-  <a href="https://leetcode.com/u/keshavkhandelwal/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/leetcode.png" height="30"/></a>
-  <a href="https://www.codechef.com/users/keshavkk322"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/codechef.png" height="30"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav-khandelwal&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=keshav-khandelwal&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-khandelwal&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav-khandelwal&theme=tokyo-night" />
+  <a href="https://www.linkedin.com/in/keshav-khandelwal-kk/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:keshavkhandelwal.jwr@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="30" alt="Gmail"/>
+  </a>
+  <a href="https://www.codechef.com/users/keshavkk322">
+    <img src="https://img.icons8.com/windows/48/codechef.png" height="30" alt="CodeChef"/>
+  </a>
+  <a href="https://keshav-khandelwal.github.io/KESHAV_PORTFOLIO/">
+    <img src="https://img.icons8.com/color/48/domain.png" height="30" alt="Portfolio"/>
+  </a>
 </p>
