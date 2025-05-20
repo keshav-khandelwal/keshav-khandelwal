@@ -73,19 +73,12 @@
 
 ### LeetCode
 
-<p align="left">
-  <a href="https://leetcode.com/u/keshavkhandelwal/">
-    <img src="https://leetcard.jacoblin.cool/keshavkhandelwal?theme=dark&ext=activity" alt="LeetCode Stats Card" />
-  </a>
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/keshavkhandelwal?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/u/keshavkhandelwal/)
 
 ### CodeChef
 
-<p align="left">
-  <a href="https://www.codechef.com/users/keshavkk322">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=5B4638&width=450&lines=CodeChef+User%3A+keshavkk322;269-day+coding+streak;Rated+in+contests;Badges+earned+for+consistency" />
-  </a>
-</p>
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/keshavkk322)](https://www.codechef.com/users/keshavkk322)
+
 ---
 
 <h2 align="center">🚀 Projects Showcase</h2>
