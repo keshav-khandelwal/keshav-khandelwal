@@ -73,11 +73,20 @@
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/keshavkhandelwal?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/u/keshavkhandelwal/)
+<p align="left">
+  <a href="https://leetcode.com/u/keshavkhandelwal/">
+    <img src="https://leetcard.jacoblin.cool/keshavkhandelwal?theme=dark&ext=activity" alt="LeetCode Stats Card" />
+  </a>
+</p>
 
-### CodeChef
+### CodeChef (User: keshavkk322)
 
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/keshavkk322)](https://www.codechef.com/users/keshavkk322)
+- 🔥 269-day coding streak
+- 💻 Regular contest participant
+- 🏅 Badges earned for consistency
+- 📈 Improving problem-solving skills
+- 🌐 [Visit Profile](https://www.codechef.com/users/keshavkk322)
+
 
 ---
 
