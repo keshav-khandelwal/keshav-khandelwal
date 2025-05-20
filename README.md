@@ -68,18 +68,19 @@
 
 ---
 
-## 💼 Projects
+<h2 align="center">🚀 Projects Showcase</h2>
 
-🌟 [Wine Classification Using ML](https://github.com/keshav-khandelwal/Wine-Data-Analysis-ML)  
-Classified wine types using various ML models in R (Neural Networks, Naive Bayes, Decision Trees, etc.)
-
-🌍 [COVID-19 Insights India Dashboard](https://github.com/keshav-khandelwal/covid19-vaccination-dashboard)  
-Interactive Tableau dashboard showing case and vaccination stats across Indian states.
-
-🩸 [Blood Donation Website](https://github.com/keshav-khandelwal/Helping-Hands)  
-Web platform to educate users and help book blood donation appointments (HTML/CSS/JS).
-
----
+<p align="center">
+  <a href="https://github.com/keshav-khandelwal/Wine-Data-Analysis-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-khandelwal&repo=Wine-Data-Analysis-ML&theme=radical" />
+  </a>
+  <a href="https://github.com/keshav-khandelwal/covid19-vaccination-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-khandelwal&repo=covid19-vaccination-dashboard&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/keshav-khandelwal/Helping-Hands">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-khandelwal&repo=Helping-Hands&theme=highcontrast" />
+  </a>
+</p>
 
 ## 📫 Connect with Me
 
