@@ -1,83 +1,84 @@
 
-<h1 align="center">Hi there 👋, I'm Keshav Khandelwal</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav+Khandelwal!;Competitive+Programmer+%F0%9F%94%A5;Full+Stack+Developer+%F0%9F%93%90;ML+%26+Data+Visualization+Lover+%F0%9F%93%88" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Competitive+Programmer;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Visualizer&center=true&width=500&height=50" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" />
 </p>
+
+---
+
+<h2 align="center">🌟 My Tech Stack</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="180" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,r,html,css,js,react,sql,mysql,tableau,figma" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-🎓 I'm a Computer Science undergraduate at **Lovely Professional University**  
-💡 I love turning data into insight, code into solutions, and challenges into growth opportunities  
-🧠 Currently exploring **Machine Learning**, **Data Visualization**, and **Full Stack Web Development**  
-📈 Passionate about **Competitive Programming** with consistent performance on LeetCode & CodeChef
-
----
-
-## 🔧 Tech Stack
-
-```bash
-Languages:    C++ | Python | Java | R  
-Frontend:     HTML | CSS | JavaScript | React  
-Data Tools:   SQL | MySQL | Microsoft Excel | Tableau  
-Soft Skills:  Problem Solving | Teamwork | Project Management | Adaptability
-```
-
----
-
-## 🏆 Achievements
-
-- 🔥 Maintained a **269-day** daily coding streak on **CodeChef**
-- 🧠 Solved **150+ problems** on **LeetCode**
-- 🥇 Represented my university in **debate competitions**
-- 📜 Certified in Python (UMich), SQL, Advanced Data Analysis with ChatGPT, Generative AI, and Excel for Analytics
-
----
-
-## 📊 Competitive Coding Profiles
+<h2 align="center">🏆 Competitive Programming</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/keshavkhandelwal/">
-    <img src="https://leetcard.jacoblin.cool/keshavkhandelwal?ext=activity" alt="LeetCode Profile" />
+    <img src="https://leetcard.jacoblin.cool/keshavkhandelwal?theme=dark&font=Karma&ext=contest" />
   </a>
-  <br><br>
+</p>
+
+<p align="center">
   <a href="https://www.codechef.com/users/keshavkk322">
-    <img src="https://cp-logo.vercel.app/codechef/keshavkk322" alt="CodeChef Profile" />
+    <img src="https://api.pepy.tech/badge/codechef/keshavkk322" alt="CodeChef Badge" />
+    <br>
+    <img src="https://img.shields.io/badge/CodeChef-keshavkk322-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💼 Projects
+<h2 align="center">🚀 Projects Showcase</h2>
 
-🌟 [Wine Classification Using ML](https://github.com/keshav-khandelwal/Wine-Data-Analysis-ML)  
-Classified wine types using various ML models in R (Neural Networks, Naive Bayes, Decision Trees, etc.)
-
-🌍 [COVID-19 Insights India Dashboard](https://github.com/keshav-khandelwal/covid19-vaccination-dashboard)  
-Interactive Tableau dashboard showing case and vaccination stats across Indian states.
-
-🩸 [Blood Donation Website](https://github.com/keshav-khandelwal/Helping-Hands)  
-Web platform to educate users and help book blood donation appointments (HTML/CSS/JS).
+<p align="center">
+  <a href="https://github.com/keshav-khandelwal/Wine-Data-Analysis-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-khandelwal&repo=Wine-Data-Analysis-ML&theme=radical" />
+  </a>
+  <a href="https://github.com/keshav-khandelwal/covid19-vaccination-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-khandelwal&repo=covid19-vaccination-dashboard&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/keshav-khandelwal/Helping-Hands">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-khandelwal&repo=Helping-Hands&theme=highcontrast" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with Me
+<h2 align="center">📜 Certifications</h2>
 
 <p align="center">
-  <a href="mailto:keshavkhandelwal.jwr@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/keshav-khandelwal-kk/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/keshav-khandelwal"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-UoMichigan-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-Intro-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-Adv_Data_Analysis-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-HackerRank-lightgrey?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Excel-Data_Analysis-yellowgreen?style=for-the-badge&logo=microsoft-excel" />
+</p>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:keshavkhandelwal.jwr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-keshavkhandelwal.jwr%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/keshav-khandelwal-kk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Keshav_Khandelwal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/keshav-khandelwal">
+    <img src="https://img.shields.io/badge/GitHub-keshav--khandelwal-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshav-khandelwal&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=keshav-khandelwal&label=Visitors&color=blue&style=flat-square" />
 </p>
-
