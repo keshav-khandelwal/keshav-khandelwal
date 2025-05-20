@@ -45,22 +45,23 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gslU06gkh3s3XMc/giphy.gif" width="180" />
-</p>
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="50" align="left" />
 
-<ul>
-  <li>🔥 Maintained a <strong>269-day coding streak</strong> on <a href="https://www.codechef.com/users/keshavkk322">CodeChef</a>, earning multiple achievement badges 🏅</li>
-  <li>💡 Solved <strong>150+ problems</strong> on <a href="https://leetcode.com/u/keshavkhandelwal/">LeetCode</a>, with a <strong>70+ day streak</strong> and consistency awards</li>
-  <li>🎙 Represented the <strong>School of Computer Science and Engineering</strong> in public speaking and debate competitions</li>
-  <li>📜 Earned certifications in <strong>Python, SQL, Excel, Generative AI, and Data Analysis with ChatGPT</strong></li>
-</ul>
+- 🔥 Maintained a **269-day coding streak** on [CodeChef](https://www.codechef.com/users/keshavkk322)
+- 🧠 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/keshavkhandelwal/) with a **70+ day streak**
+- 🗣 Represented the **School of Computer Science and Engineering** in a national-level debate competition
+- 📜 Earned certifications in:
+  - Python (University of Michigan)
+  - SQL (HackerRank)
+  - ChatGPT Advanced Data Analysis
+  - Generative AI
+  - Excel for Data Analytics and Visualization
+- 🏅 Consistently ranked in college-wide coding contests and project showcases
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
-</p>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" />
+
 
 ---
 
