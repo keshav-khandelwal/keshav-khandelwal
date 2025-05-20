@@ -82,16 +82,19 @@
   </a>
 </p>
 
-## 📫 Connect with Me
+### 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:keshavkhandelwal.jwr@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/keshav-khandelwal-kk/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/keshav-khandelwal"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshav-khandelwal&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+  <a href="https://www.linkedin.com/in/keshav-khandelwal-kk/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:keshavkhandelwal.jwr@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="30" alt="Gmail"/>
+  </a>
+  <a href="https://www.codechef.com/users/keshavkk322">
+    <img src="https://img.icons8.com/windows/48/codechef.png" height="30" alt="CodeChef"/>
+  </a>
+  <a href="https://keshav-khandelwal.github.io/KESHAV_PORTFOLIO/">
+    <img src="https://img.icons8.com/color/48/domain.png" height="30" alt="Portfolio"/>
+  </a>
 </p>
