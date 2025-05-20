@@ -45,12 +45,22 @@
 
 ---
 
-## 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
 
-- 🔥 Maintained a **269-day** daily coding streak on **CodeChef**
-- 🧠 Solved **150+ problems** on **LeetCode**
-- 🥇 Represented my university in **debate competitions**
-- 📜 Certified in Python (UMich), SQL, Advanced Data Analysis with ChatGPT, Generative AI, and Excel for Analytics
+<p align="center">
+  <img src="https://media.giphy.com/media/26gslU06gkh3s3XMc/giphy.gif" width="180" />
+</p>
+
+<ul>
+  <li>🔥 Maintained a <strong>269-day coding streak</strong> on <a href="https://www.codechef.com/users/keshavkk322">CodeChef</a>, earning multiple achievement badges 🏅</li>
+  <li>💡 Solved <strong>150+ problems</strong> on <a href="https://leetcode.com/u/keshavkhandelwal/">LeetCode</a>, with a <strong>70+ day streak</strong> and consistency awards</li>
+  <li>🎙 Represented the <strong>School of Computer Science and Engineering</strong> in public speaking and debate competitions</li>
+  <li>📜 Earned certifications in <strong>Python, SQL, Excel, Generative AI, and Data Analysis with ChatGPT</strong></li>
+</ul>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+</p>
 
 ---
 
