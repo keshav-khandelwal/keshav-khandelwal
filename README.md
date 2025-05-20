@@ -11,23 +11,37 @@
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-🎓 I'm a Computer Science undergraduate at **Lovely Professional University**  
-💡 I love turning data into insight, code into solutions, and challenges into growth opportunities  
-🧠 Currently exploring **Machine Learning**, **Data Visualization**, and **Full Stack Web Development**  
-📈 Passionate about **Competitive Programming** with consistent performance on LeetCode & CodeChef
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+- 🎓 I'm pursuing B.Tech in Computer Science & Engineering at Lovely Professional University (2022–2026)
+- 💻 I love working on Data Science, Machine Learning, Cybersecurity, and Web Development
+- 🧠 Continuously improving my problem-solving abilities through DSA
+- 🚀 I'm on a mission to build impactful and intelligent systems
 
 ---
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack & Tools
 
-```bash
-Languages:    C++ | Python | Java | R  
-Frontend:     HTML | CSS | JavaScript | React  
-Data Tools:   SQL | MySQL | Microsoft Excel | Tableau  
-Soft Skills:  Problem Solving | Teamwork | Project Management | Adaptability
-```
+<img align="right" width="280" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+#### 💻 Languages
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![R](https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png)
+
+#### 🌐 Web Technologies
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![React](https://img.icons8.com/officel/48/000000/react.png)
+
+#### 🛠 Tools & Platforms
+![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
+![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
+![Excel](https://img.icons8.com/office/40/000000/ms-excel.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ---
 
