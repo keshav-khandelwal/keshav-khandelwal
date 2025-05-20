@@ -45,23 +45,27 @@
 
 ---
 
-## 🏆 Achievements
+<h2 align="left">🏆 Achievements</h2>
 
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="50" align="left" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70000&width=435&lines=🔥+269-day+coding+streak+on+CodeChef" />
+</p>
 
-- 🔥 Maintained a **269-day coding streak** on [CodeChef](https://www.codechef.com/users/keshavkk322)
-- 🧠 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/keshavkhandelwal/) with a **70+ day streak**
-- 🗣 Represented the **School of Computer Science and Engineering** in a national-level debate competition
-- 📜 Earned certifications in:
-  - Python (University of Michigan)
-  - SQL (HackerRank)
-  - ChatGPT Advanced Data Analysis
-  - Generative AI
-  - Excel for Data Analytics and Visualization
-- 🏅 Consistently ranked in college-wide coding contests and project showcases
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F78D1E&width=435&lines=🧠+150%2B+problems+solved+on+LeetCode+%26+70%2B+day+streak" />
+</p>
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=249C5B&width=435&lines=🎙+Debate+representative+at+School+of+CS+%26+Engineering" />
+</p>
 
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=497EF7&width=435&lines=📜+Certified+in+Python%2C+SQL%2C+AI%2C+Excel+%26+Data+Analysis" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F72FB3&width=435&lines=🏅+Top+performer+in+coding+contests+%26+projects" />
+</p>
 
 ---
 
