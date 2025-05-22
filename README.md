@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Competitive+Programmer;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Visualizer&center=true&width=500&height=50" />
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" />
+
 </p>
 
 <p align="center">
