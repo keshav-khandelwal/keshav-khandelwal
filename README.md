@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="160" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🎓 I'm pursuing B.Tech in Computer Science & Engineering at Lovely Professional University (2022–2026)
-- 💻 I love working on Data Science, Machine Learning, Cybersecurity, and Web Development
+- 💻 I love working on Data Science, Machine Learning, Software Development, and Web Development
 - 🧠 Continuously improving my problem-solving abilities through DSA
 - 🚀 I'm on a mission to build impactful and intelligent systems
 
