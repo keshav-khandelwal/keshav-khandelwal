@@ -49,7 +49,7 @@
 <h2 align="left">🏆 Achievements</h2>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70000&width=435&lines=🔥+269-day+coding+streak+on+CodeChef" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70000&width=435&lines=🔥+200-day+coding+streak+on+CodeChef" />
 </p>
 
 <p>
